@@ -1,0 +1,14 @@
+layout_spectrum: 0.07818383420817554
+typography_spectrum: 0.6306413833517581
+color:
+  brandStrength: 0.28929494717158377
+  lightness: 0.09711455041542649
+  saturation: 0.9176051374524832
+  rhythmicContrast: 0.40049227653071284
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: Auto-activaton
